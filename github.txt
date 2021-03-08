@@ -1,1 +1,2 @@
-Learning github
+Learning github.
+Editing online to study how to pull the changes from online to local repository.
