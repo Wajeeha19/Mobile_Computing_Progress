@@ -1,3 +1,3 @@
 Learning github.
 Editing online to study how to pull the changes from online to local repository.
-Now adding some stuff in online repository to study merge conflicts
+Adding some stuff in online repository to study merge conflicts
