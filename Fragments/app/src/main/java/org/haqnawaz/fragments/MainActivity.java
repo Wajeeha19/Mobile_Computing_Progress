@@ -18,10 +18,15 @@ public class MainActivity extends AppCompatActivity {
 
 
     public void Fragment01(View view) {
-
+        fragmentTransaction=getSupportFragmentManager().beginTransaction();
+        Fragment01 fragment01=new Fragment01();
+        fragmentTransaction.replace(R.id.fragment,fragment01);
     }
 
     public void Fragment02(View view) {
+        fragmentTransaction=getSupportFragmentManager().beginTransaction();
+        Fragment02 fragment01=new Fragment02();
+        fragmentTransaction.replace(R.id.fragment,fragment01);
     }
 
 }
